@@ -1,0 +1,13 @@
+# node_modules
+node_modules/
+
+# OddiVille Server ignore files
+.env*
+
+# Certificates
+ca2.pem
+oddiville-server.pem
+
+# Temporary files
+data.txt
+resource/
